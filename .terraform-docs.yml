@@ -1,11 +1,7 @@
-formatter: ""
+formatter: "markdown table"
 
-sections:
-  hide: []
-  show:
-    - all
-
-content: ""
+recursive:
+  enabled: false
 
 output:
   file: "README.md"
